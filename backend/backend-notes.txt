@@ -1,0 +1,9 @@
+1. What is backend development?
+    -is a server-side logic where the application process request, handle request and perform operations the users did not know.
+
+2. Give 2 examples of backend frameworks
+    -Laravel
+    -Django
+
+3. What is an API?
+    -is the bridge/middleware between backend and frontend.
